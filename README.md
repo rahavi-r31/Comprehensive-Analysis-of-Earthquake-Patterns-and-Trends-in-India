@@ -1,4 +1,4 @@
-![image](https://github.com/rahavi-r31/Comprehensive-Analysis-of-Earthquake-Patterns-and-Trends-in-India/assets/114447213/72047dfd-9207-4182-aef2-c0625f9f42a0)![image](https://github.com/rahavi-r31/Comprehensive-Analysis-of-Earthquake-Patterns-and-Trends-in-India/assets/114447213/f9a277a0-ab7e-40c3-999b-a961b5d8fac6)# Comprehensive-Analysis-of-Earthquake-Patterns-and-Trends-in-India
+### Comprehensive-Analysis-of-Earthquake-Patterns-and-Trends-in-India
 A data analysis using concepts from Big Data analytics and Exploratory Data Analysis on earthquake dataset of India acquired from Kaggle 
 
 ## Goal of the Project
