@@ -11,7 +11,7 @@ The Earthquakes - Indian Subcontinent dataset on Kaggle is a collection of data 
 
 ## Team Members
 
-- Rahavi S, Poojitha P, RAJASEKAR M, SAKTHI KUMAR V
+- Rahavi S, Poojitha P, Rajeshakar M, Sakthi Kumar V
 
 ## Key Findings
 
